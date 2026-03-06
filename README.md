@@ -84,7 +84,7 @@ The following steps were performed using Python:
 ---
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard Preview](HR%20Analytics%20–%20Employee%20Attrition.jpg)
 
 ---
 
