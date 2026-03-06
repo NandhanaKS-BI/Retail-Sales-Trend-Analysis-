@@ -84,7 +84,7 @@ The following steps were performed using Python:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](HR%20Analytics%20–%20Employee%20Attrition.jpg)
+![Dashboard Preview](Retail%20Sales%20Trend%20Analysis.jpg)
 
 ---
 
